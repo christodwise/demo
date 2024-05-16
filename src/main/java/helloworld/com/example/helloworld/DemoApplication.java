@@ -15,7 +15,7 @@ final static Logger log = LoggerFactory.getLogger(DemoApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		 
-log.info("logger settings: version);
+log.info("logger settings" version);
 	}
 
 }
