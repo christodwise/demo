@@ -38,10 +38,11 @@
 
         <!-- Spring Boot Starter Test -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
+		<dependency>
+			<groupId>de.codecentric</groupId>
+			<artifactId>spring-boot-admin-starter-client</artifactId>
+			<version>2.3.0</version>
+		</dependency>
     </dependencies>
 
     <build>
