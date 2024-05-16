@@ -11,7 +11,7 @@ final static Logger log = LoggerFactory.getLogger(DemoApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		 
-log.info("Hi Welcome to Lifetrenz ");
+log.info("logger settings: $enable_adminclient ");
 	}
 
 }
