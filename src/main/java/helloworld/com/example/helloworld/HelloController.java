@@ -11,4 +11,3 @@ public class HelloController {
         return "Hello, World!";
     }
 }
-System.out.println("hello");   
